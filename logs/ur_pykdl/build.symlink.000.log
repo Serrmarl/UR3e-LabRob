@@ -1,6 +1,0 @@
-Symlinking /home/jcab/ros_ws/devel/lib/pkgconfig/ur_pykdl.pc
-Symlinking /home/jcab/ros_ws/devel/lib/python2.7/dist-packages/ur_pykdl/__init__.py
-Symlinking /home/jcab/ros_ws/devel/lib/python2.7/dist-packages/urdf_parser_py/__init__.py
-Symlinking /home/jcab/ros_ws/devel/lib/python2.7/dist-packages/ur_kdl/__init__.py
-Symlinking /home/jcab/ros_ws/devel/share/ur_pykdl/cmake/ur_pykdlConfig-version.cmake
-Symlinking /home/jcab/ros_ws/devel/share/ur_pykdl/cmake/ur_pykdlConfig.cmake

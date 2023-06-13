@@ -1,8 +1,0 @@
-ur3/ur_pykdl
-/home/jcab/ros_ws/devel/.private/ur_pykdl/cmake.lock /home/jcab/ros_ws/devel/./cmake.lock
-/home/jcab/ros_ws/devel/.private/ur_pykdl/lib/pkgconfig/ur_pykdl.pc /home/jcab/ros_ws/devel/lib/pkgconfig/ur_pykdl.pc
-/home/jcab/ros_ws/devel/.private/ur_pykdl/lib/python2.7/dist-packages/ur_pykdl/__init__.py /home/jcab/ros_ws/devel/lib/python2.7/dist-packages/ur_pykdl/__init__.py
-/home/jcab/ros_ws/devel/.private/ur_pykdl/lib/python2.7/dist-packages/urdf_parser_py/__init__.py /home/jcab/ros_ws/devel/lib/python2.7/dist-packages/urdf_parser_py/__init__.py
-/home/jcab/ros_ws/devel/.private/ur_pykdl/lib/python2.7/dist-packages/ur_kdl/__init__.py /home/jcab/ros_ws/devel/lib/python2.7/dist-packages/ur_kdl/__init__.py
-/home/jcab/ros_ws/devel/.private/ur_pykdl/share/ur_pykdl/cmake/ur_pykdlConfig-version.cmake /home/jcab/ros_ws/devel/share/ur_pykdl/cmake/ur_pykdlConfig-version.cmake
-/home/jcab/ros_ws/devel/.private/ur_pykdl/share/ur_pykdl/cmake/ur_pykdlConfig.cmake /home/jcab/ros_ws/devel/share/ur_pykdl/cmake/ur_pykdlConfig.cmake

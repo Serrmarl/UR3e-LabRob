@@ -1,1 +1,0 @@
-/home/jcab/ros_ws/devel/.private/ur_pykdl/lib/pkgconfig/ur_pykdl.pc

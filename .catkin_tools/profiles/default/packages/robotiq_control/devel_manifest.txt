@@ -1,6 +1,0 @@
-robotiq/robotiq_control
-/home/jcab/ros_ws/devel/.private/robotiq_control/cmake.lock /home/jcab/ros_ws/devel/./cmake.lock
-/home/jcab/ros_ws/devel/.private/robotiq_control/lib/pkgconfig/robotiq_control.pc /home/jcab/ros_ws/devel/lib/pkgconfig/robotiq_control.pc
-/home/jcab/ros_ws/devel/.private/robotiq_control/lib/python2.7/dist-packages/robotiq_control/__init__.py /home/jcab/ros_ws/devel/lib/python2.7/dist-packages/robotiq_control/__init__.py
-/home/jcab/ros_ws/devel/.private/robotiq_control/share/robotiq_control/cmake/robotiq_controlConfig-version.cmake /home/jcab/ros_ws/devel/share/robotiq_control/cmake/robotiq_controlConfig-version.cmake
-/home/jcab/ros_ws/devel/.private/robotiq_control/share/robotiq_control/cmake/robotiq_controlConfig.cmake /home/jcab/ros_ws/devel/share/robotiq_control/cmake/robotiq_controlConfig.cmake

@@ -1,8 +1,0 @@
-prefix=/home/jcab/ros_ws/devel/.private/robotiq_msgs
-
-Name: robotiq_msgs
-Description: Description of robotiq_msgs
-Version: 0.1.0
-Cflags: -I/home/jcab/ros_ws/devel/.private/robotiq_msgs/include
-Libs: -L${prefix}/lib 
-Requires: actionlib actionlib_msgs control_msgs message_runtime

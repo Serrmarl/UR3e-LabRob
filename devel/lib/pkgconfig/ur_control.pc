@@ -1,1 +1,0 @@
-/home/jcab/ros_ws/devel/.private/ur_control/lib/pkgconfig/ur_control.pc

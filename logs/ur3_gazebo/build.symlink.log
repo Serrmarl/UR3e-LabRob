@@ -1,4 +1,0 @@
-Symlinking /home/jcab/ros_ws/devel/lib/pkgconfig/ur3_gazebo.pc
-Symlinking /home/jcab/ros_ws/devel/lib/python2.7/dist-packages/ur_gazebo/__init__.py
-Symlinking /home/jcab/ros_ws/devel/share/ur3_gazebo/cmake/ur3_gazeboConfig.cmake
-Symlinking /home/jcab/ros_ws/devel/share/ur3_gazebo/cmake/ur3_gazeboConfig-version.cmake

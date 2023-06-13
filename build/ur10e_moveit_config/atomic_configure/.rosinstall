@@ -1,2 +1,0 @@
-- setup-file:
-    local-name: /home/jcab/ros_ws/devel/.private/ur10e_moveit_config/setup.sh

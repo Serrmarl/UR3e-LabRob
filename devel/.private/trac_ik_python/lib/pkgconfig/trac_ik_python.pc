@@ -1,8 +1,0 @@
-prefix=/home/jcab/ros_ws/devel/.private/trac_ik_python
-
-Name: trac_ik_python
-Description: Description of trac_ik_python
-Version: 1.6.6
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 

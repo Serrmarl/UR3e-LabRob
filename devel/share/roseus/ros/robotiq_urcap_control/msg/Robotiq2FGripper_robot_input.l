@@ -1,1 +1,0 @@
-/home/jcab/ros_ws/devel/.private/robotiq_urcap_control/share/roseus/ros/robotiq_urcap_control/msg/Robotiq2FGripper_robot_input.l

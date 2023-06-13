@@ -1,8 +1,0 @@
-prefix=/home/jcab/ros_ws/devel/.private/ur_control
-
-Name: ur_control
-Description: Description of ur_control
-Version: 0.1.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 

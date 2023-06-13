@@ -1,4 +1,0 @@
-Symlinking /home/jcab/ros_ws/devel/lib/pkgconfig/robotiq_control.pc
-Symlinking /home/jcab/ros_ws/devel/lib/python2.7/dist-packages/robotiq_control/__init__.py
-Symlinking /home/jcab/ros_ws/devel/share/robotiq_control/cmake/robotiq_controlConfig-version.cmake
-Symlinking /home/jcab/ros_ws/devel/share/robotiq_control/cmake/robotiq_controlConfig.cmake

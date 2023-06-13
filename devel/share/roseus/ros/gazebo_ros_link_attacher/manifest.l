@@ -1,1 +1,0 @@
-/home/jcab/ros_ws/devel/.private/gazebo_ros_link_attacher/share/roseus/ros/gazebo_ros_link_attacher/manifest.l

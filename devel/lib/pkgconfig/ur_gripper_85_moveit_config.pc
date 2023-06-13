@@ -1,1 +1,0 @@
-/home/jcab/ros_ws/devel/.private/ur_gripper_85_moveit_config/lib/pkgconfig/ur_gripper_85_moveit_config.pc

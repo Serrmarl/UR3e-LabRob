@@ -1,1 +1,0 @@
-/home/jcab/ros_ws/devel/.private/ur3_gazebo/lib/python2.7/dist-packages/ur_gazebo/__init__.py

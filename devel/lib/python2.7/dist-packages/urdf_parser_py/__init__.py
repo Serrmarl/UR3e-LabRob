@@ -1,1 +1,0 @@
-/home/jcab/ros_ws/devel/.private/ur_pykdl/lib/python2.7/dist-packages/urdf_parser_py/__init__.py

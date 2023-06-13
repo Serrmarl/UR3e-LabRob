@@ -1,8 +1,0 @@
-prefix=/home/jcab/ros_ws/devel/.private/ur_pykdl
-
-Name: ur_pykdl
-Description: Description of ur_pykdl
-Version: 0.1.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: rospy geometry_msgs sensor_msgs tf

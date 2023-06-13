@@ -1,1 +1,0 @@
-/home/jcab/ros_ws/devel/.private/ur3_description/share/ur3_description/cmake/ur3_descriptionConfig-version.cmake
