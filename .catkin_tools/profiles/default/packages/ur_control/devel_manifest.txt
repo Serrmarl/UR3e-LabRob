@@ -1,0 +1,6 @@
+ur3/ur_control
+/home/jcab/ros_ws/devel/.private/ur_control/cmake.lock /home/jcab/ros_ws/devel/./cmake.lock
+/home/jcab/ros_ws/devel/.private/ur_control/lib/pkgconfig/ur_control.pc /home/jcab/ros_ws/devel/lib/pkgconfig/ur_control.pc
+/home/jcab/ros_ws/devel/.private/ur_control/lib/python2.7/dist-packages/ur_control/__init__.py /home/jcab/ros_ws/devel/lib/python2.7/dist-packages/ur_control/__init__.py
+/home/jcab/ros_ws/devel/.private/ur_control/share/ur_control/cmake/ur_controlConfig.cmake /home/jcab/ros_ws/devel/share/ur_control/cmake/ur_controlConfig.cmake
+/home/jcab/ros_ws/devel/.private/ur_control/share/ur_control/cmake/ur_controlConfig-version.cmake /home/jcab/ros_ws/devel/share/ur_control/cmake/ur_controlConfig-version.cmake

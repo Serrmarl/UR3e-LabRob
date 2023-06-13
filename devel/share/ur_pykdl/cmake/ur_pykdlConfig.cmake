@@ -1,0 +1,1 @@
+/home/jcab/ros_ws/devel/.private/ur_pykdl/share/ur_pykdl/cmake/ur_pykdlConfig.cmake

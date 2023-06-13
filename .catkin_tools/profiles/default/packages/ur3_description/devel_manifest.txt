@@ -1,0 +1,5 @@
+ur3/ur3_description
+/home/jcab/ros_ws/devel/.private/ur3_description/cmake.lock /home/jcab/ros_ws/devel/./cmake.lock
+/home/jcab/ros_ws/devel/.private/ur3_description/lib/pkgconfig/ur3_description.pc /home/jcab/ros_ws/devel/lib/pkgconfig/ur3_description.pc
+/home/jcab/ros_ws/devel/.private/ur3_description/share/ur3_description/cmake/ur3_descriptionConfig.cmake /home/jcab/ros_ws/devel/share/ur3_description/cmake/ur3_descriptionConfig.cmake
+/home/jcab/ros_ws/devel/.private/ur3_description/share/ur3_description/cmake/ur3_descriptionConfig-version.cmake /home/jcab/ros_ws/devel/share/ur3_description/cmake/ur3_descriptionConfig-version.cmake

@@ -1,0 +1,1 @@
+/home/jcab/ros_ws/devel/.private/ur3_gazebo/share/ur3_gazebo/cmake/ur3_gazeboConfig.cmake

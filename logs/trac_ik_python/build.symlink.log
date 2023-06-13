@@ -1,0 +1,6 @@
+Symlinking /home/jcab/ros_ws/devel/lib/pkgconfig/trac_ik_python.pc
+Symlinking /home/jcab/ros_ws/devel/lib/python2.7/dist-packages/trac_ik_python/__init__.py
+Symlinking /home/jcab/ros_ws/devel/lib/python2.7/dist-packages/trac_ik_python/trac_ik_wrap.py
+Symlinking /home/jcab/ros_ws/devel/lib/python2.7/dist-packages/trac_ik_python/_trac_ik_wrap.so
+Symlinking /home/jcab/ros_ws/devel/share/trac_ik_python/cmake/trac_ik_pythonConfig.cmake
+Symlinking /home/jcab/ros_ws/devel/share/trac_ik_python/cmake/trac_ik_pythonConfig-version.cmake

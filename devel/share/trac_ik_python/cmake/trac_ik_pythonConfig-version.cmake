@@ -1,0 +1,1 @@
+/home/jcab/ros_ws/devel/.private/trac_ik_python/share/trac_ik_python/cmake/trac_ik_pythonConfig-version.cmake

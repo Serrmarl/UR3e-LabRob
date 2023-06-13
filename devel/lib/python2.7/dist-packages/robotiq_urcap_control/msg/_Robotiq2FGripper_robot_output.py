@@ -1,0 +1,1 @@
+/home/jcab/ros_ws/devel/.private/robotiq_urcap_control/lib/python2.7/dist-packages/robotiq_urcap_control/msg/_Robotiq2FGripper_robot_output.py

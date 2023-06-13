@@ -1,0 +1,1 @@
+/home/jcab/ros_ws/devel/.private/robotiq_control/lib/pkgconfig/robotiq_control.pc

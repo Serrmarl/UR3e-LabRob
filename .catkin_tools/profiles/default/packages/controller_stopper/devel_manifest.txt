@@ -1,0 +1,6 @@
+universal_robots_ros_driver/controller_stopper
+/home/jcab/ros_ws/devel/.private/controller_stopper/cmake.lock /home/jcab/ros_ws/devel/./cmake.lock
+/home/jcab/ros_ws/devel/.private/controller_stopper/lib/controller_stopper/node /home/jcab/ros_ws/devel/lib/controller_stopper/node
+/home/jcab/ros_ws/devel/.private/controller_stopper/lib/pkgconfig/controller_stopper.pc /home/jcab/ros_ws/devel/lib/pkgconfig/controller_stopper.pc
+/home/jcab/ros_ws/devel/.private/controller_stopper/share/controller_stopper/cmake/controller_stopperConfig.cmake /home/jcab/ros_ws/devel/share/controller_stopper/cmake/controller_stopperConfig.cmake
+/home/jcab/ros_ws/devel/.private/controller_stopper/share/controller_stopper/cmake/controller_stopperConfig-version.cmake /home/jcab/ros_ws/devel/share/controller_stopper/cmake/controller_stopperConfig-version.cmake

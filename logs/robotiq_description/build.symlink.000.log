@@ -1,0 +1,3 @@
+Symlinking /home/jcab/ros_ws/devel/lib/pkgconfig/robotiq_description.pc
+Symlinking /home/jcab/ros_ws/devel/share/robotiq_description/cmake/robotiq_descriptionConfig.cmake
+Symlinking /home/jcab/ros_ws/devel/share/robotiq_description/cmake/robotiq_descriptionConfig-version.cmake

@@ -1,0 +1,4 @@
+Symlinking /home/jcab/ros_ws/devel/lib/pkgconfig/ur_control.pc
+Symlinking /home/jcab/ros_ws/devel/lib/python2.7/dist-packages/ur_control/__init__.py
+Symlinking /home/jcab/ros_ws/devel/share/ur_control/cmake/ur_controlConfig.cmake
+Symlinking /home/jcab/ros_ws/devel/share/ur_control/cmake/ur_controlConfig-version.cmake

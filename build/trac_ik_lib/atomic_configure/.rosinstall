@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/jcab/ros_ws/devel/.private/trac_ik_lib/setup.sh

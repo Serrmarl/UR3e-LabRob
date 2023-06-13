@@ -1,0 +1,4 @@
+Symlinking /home/jcab/ros_ws/devel/lib/controller_stopper/node
+Symlinking /home/jcab/ros_ws/devel/lib/pkgconfig/controller_stopper.pc
+Symlinking /home/jcab/ros_ws/devel/share/controller_stopper/cmake/controller_stopperConfig.cmake
+Symlinking /home/jcab/ros_ws/devel/share/controller_stopper/cmake/controller_stopperConfig-version.cmake

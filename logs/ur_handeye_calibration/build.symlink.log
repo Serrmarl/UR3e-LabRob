@@ -1,0 +1,3 @@
+Symlinking /home/jcab/ros_ws/devel/lib/pkgconfig/ur_handeye_calibration.pc
+Symlinking /home/jcab/ros_ws/devel/share/ur_handeye_calibration/cmake/ur_handeye_calibrationConfig.cmake
+Symlinking /home/jcab/ros_ws/devel/share/ur_handeye_calibration/cmake/ur_handeye_calibrationConfig-version.cmake

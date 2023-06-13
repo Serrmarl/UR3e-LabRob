@@ -1,0 +1,1 @@
+/home/jcab/ros_ws/devel/.private/robotiq_control/lib/python2.7/dist-packages/robotiq_control/__init__.py

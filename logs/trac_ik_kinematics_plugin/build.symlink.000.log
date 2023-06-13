@@ -1,0 +1,4 @@
+Symlinking /home/jcab/ros_ws/devel/lib/libtrac_ik_kinematics_plugin.so
+Symlinking /home/jcab/ros_ws/devel/lib/pkgconfig/trac_ik_kinematics_plugin.pc
+Symlinking /home/jcab/ros_ws/devel/share/trac_ik_kinematics_plugin/cmake/trac_ik_kinematics_pluginConfig.cmake
+Symlinking /home/jcab/ros_ws/devel/share/trac_ik_kinematics_plugin/cmake/trac_ik_kinematics_pluginConfig-version.cmake
