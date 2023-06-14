@@ -1,5 +1,6 @@
 # UR3e-LabRob
-Customized packages for UR3e robot control with Hand-e robotiq gripper. Various routines are explored to create dynamics trayectories and HRI activities using MoveIt libraries. This package is based on ROS Melodic using Python programming.
+Customized packages for UR3e robot control with Hand-e robotiq gripper. We made modifications in the launch files to adapt the scene to the workspace.
+Various routines are explored to create dynamics trayectories and HRI activities using MoveIt libraries. This package is based on ROS Melodic using Python programming.
 
 ## Demostration
 **Dynamic avoidance**
@@ -13,6 +14,7 @@ Customized packages for UR3e robot control with Hand-e robotiq gripper. Various 
 **HRI**
 
 ![HRI_Close](https://github.com/Serrmarl/UR3e-LabRob/assets/119684013/70cee71d-3f27-4221-9ef2-ffde3e65f9d3)
+
 ## Usage
 ### Simulation
 To test the routines created in simulation, we will start the gazebo environment with our modified workspace:
