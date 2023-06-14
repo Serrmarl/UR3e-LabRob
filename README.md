@@ -27,8 +27,8 @@ Finally, execute any routine from the "routine" folder writing in another comman
 ```
 rosrun ur_control [ROUTINE_NAME]
 ```
->Not all code works in simulation, you must remove programming lines referring to the gripper.
->The following line is an example of what should be commented out or deleted.
+>The same files were used to test them in hardware, to execute in simulation we will have to comment the lines referring to the gripper.
+>The following line is an example of what should be commented on.
 https://github.com/Serrmarl/UR3e-LabRob/blob/7e4ee93054120a467800abe9b35a02d0227e9bb3/src/routines/moveit_HRI1.py#L292
 ### Usage with real hardware
 To run the routines on the real robot we will have to start the drivers
