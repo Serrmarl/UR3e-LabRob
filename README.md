@@ -14,7 +14,8 @@ Various routines are explored to create dynamics trayectories and HRI activities
 **HRI**
 
 ![HRI_Close](https://github.com/Serrmarl/UR3e-LabRob/assets/119684013/70cee71d-3f27-4221-9ef2-ffde3e65f9d3)
-
+## Path to place the new files
+![Navigation](https://github.com/Serrmarl/UR3e-LabRob/assets/119684013/06a2f16f-ae11-4f12-8053-22fa1e3f243f)
 ## Usage
 ### Simulation
 To test the routines created in simulation, we will start the gazebo environment with our modified workspace:
